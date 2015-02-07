@@ -10,7 +10,4 @@ Now we're here: [TravelHome](http://travel-home.herokuapp.com/)
 * [Sam](https://github.com/skuhlmann)
 * [Danny](https://github.com/dglunz)
 
-Be sure you run `$ brew install imagemagick`
-
-#### Our Mascots
-<img src="http://i.imgur.com/VeOaXu0.jpg" width="200"> <img src="http://i.imgur.com/43OQPVM.jpg" width="200">
+Be sure you have imagemagick `$ brew install imagemagick`
